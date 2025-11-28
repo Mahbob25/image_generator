@@ -49,7 +49,7 @@ export default function Page() {
                             AI Design Studio
                         </h1>
                         <p className="text-lg text-gray-300">
-                            Turn your ideas into professional designs.
+                            Turn your ideas into professional designs...
                         </p>
                     </div>
 
